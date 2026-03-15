@@ -1,0 +1,18 @@
+.factorycomp{
+    border: 2px solid black;
+    width: 17vw;
+    height: 15vh;
+    margin-top: 5px;
+    float: left;
+    margin-left: 3px;
+}
+.factorycomp p{
+    font-size: x-large;
+}
+.factory-box{
+    width: 300px;
+    margin: 5px;
+    border: 1px solid black;
+    display: inline-block;
+    vertical-align: top;
+}

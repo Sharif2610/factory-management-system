@@ -1,0 +1,10 @@
+.empcomponent{
+    border: 1px solid blue;
+    width: 25vw;
+    height: 20vh;
+    margin: 10px;
+    float: left;
+}
+.empcomponent p{
+    font-size: xx-large;
+}

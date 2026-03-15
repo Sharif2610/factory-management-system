@@ -1,0 +1,14 @@
+.imagecomponent img{
+    margin-top: 20vh;
+    height: 20vh;
+    width: 20vw;
+}
+.imagecomponent button{
+    width: 10vw;
+    height: 5vh;
+    margin-left: 20px;
+    background-color: red;
+    color: white;
+    font-size: xx-large;
+    border-radius: 5px;
+}

@@ -1,0 +1,47 @@
+*{
+  margin: 0px;
+  padding: 0px;
+}
+.app{
+  display: grid;
+  grid-template-columns: 120px 1fr;
+  grid-template-areas: 
+  "heading heading"
+  "sidebar mainpage"
+  "footerbar footerbar";
+}
+.app header{
+  grid-area: heading;
+  height: 12vh;
+  background-color: blue;
+  text-align: center;
+  font-size: xx-large;
+  color: white;
+}
+.app aside ul{
+  list-style-type: none;
+  margin-left: 15px;
+  margin-top: 15px;
+}
+.app aside ul li{
+  font-size: xx-large;
+  margin-top: 40px;
+}
+.app aside{
+  grid-area: sidebar;
+  height: 78vh;
+  background-color: bisque;
+  color: black;
+}
+.app main{
+  grid-area: mainpage;
+  height: 78vh;
+}
+.app footer{
+  grid-area: footerbar;
+  height: 10vh;
+  background-color: blue;
+  color: white;
+  text-align: center;
+  font-size: xx-large;
+}

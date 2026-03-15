@@ -1,0 +1,16 @@
+.increment{
+    position: absolute;
+    top: 30vh;
+    left: 20vw;
+}
+.increment button{
+    width: 10vw;
+    height: 5vh;
+    font-size: xx-large;
+    background-color: red;
+    color: white;
+    border-radius: 5px;
+}
+.increment p{
+    font-size: xx-large;
+}

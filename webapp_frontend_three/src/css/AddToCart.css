@@ -1,0 +1,36 @@
+.addtocart{
+    position: absolute;
+    top: 30vh;
+    left: 30vw;
+}
+.addtocart input[type=text]{
+    width: 20vw;
+    height: 5vh;
+    font-size: xx-large;
+    border: 2px solid red;
+    border-radius: 5px;
+}
+.addtocart button{
+    width: 10vw;
+    height: 5vh;
+    margin-left: 10px;
+    font-size: xx-large;
+    background-color: red;
+    color: white;
+}
+.addtocart ul {
+    list-style-type: none;
+}
+.addtocart ul li{
+    font-size: xx-large;
+    margin-top: 2vh;
+    display: inline;
+}
+.addtocart ul  button{
+    font-size: x-large;
+    top: 10vh;
+    left: 10vw;
+    margin-top: 5vh;
+    text-align: center;
+    width: 5vw;
+}

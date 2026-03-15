@@ -1,0 +1,9 @@
+.workforcecomponent{
+    border: 1px solid black;
+    width: 15vw;
+    height: 13vh;
+    margin-top: 10px;
+    font-size: x-large;
+    margin-left: 5px;
+    float: left;
+}

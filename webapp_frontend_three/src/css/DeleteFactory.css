@@ -1,0 +1,41 @@
+.deletefactory{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+.deleteform{
+    border: 1px solid black;
+    display: flex;
+    flex-direction: column;
+    border-radius: 5px;
+    height: 20vhvh;
+    width: 30vw;
+    margin-top: 50px;
+    border-radius: 8px;
+}
+.deletefactory input{
+    font-size: xx-large;
+    background-color: #f2f2f2;
+    border-radius: 5px;
+    margin-top: 20px;
+}
+.deletefactory button{
+    font-size: x-large;
+    background-color: lightgrey;
+    border-radius: 5px;
+    margin-top: 10px;
+}
+.deleteform label{
+    font-size: xx-large;
+    background-color: aliceblue;
+}
+.deleteform label input{
+    font-size: xx-large;
+}
+.deleteform button{
+    background-color: red;
+    color: white;
+    font-size: x-large;
+    height: 5vh;
+}
